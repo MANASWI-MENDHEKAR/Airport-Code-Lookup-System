@@ -1,3 +1,6 @@
+# Day 2
+
+
 import csv
 import urllib.request
 import json
