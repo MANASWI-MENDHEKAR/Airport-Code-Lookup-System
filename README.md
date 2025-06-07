@@ -23,8 +23,7 @@ A web-based application that provides:
 - Fully responsive UI
 
 ## 🚀 Demo
-
-[Add GitHub Pages or Streamlit deployment link here if hosted]
+https://manaswi-mendhekar.github.io/Airport-Code-Lookup-System/
 
 ## 📁 Dataset
 The airport data is sourced from Open Data repositories and must be placed as `airports.json`.
